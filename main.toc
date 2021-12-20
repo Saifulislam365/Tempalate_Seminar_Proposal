@@ -1,0 +1,12 @@
+\babel@toc {indonesian}{}
+\contentsline {section}{\numberline {A}Latar Belakang Masalah}{1}%
+\contentsline {section}{\numberline {B}Rumusan Masalah}{2}%
+\contentsline {section}{\numberline {C}Tujuan Penelitian}{3}%
+\contentsline {section}{\numberline {D}Manfaat Penelitian}{3}%
+\contentsline {section}{\numberline {E}Hipotesis}{4}%
+\contentsline {section}{\numberline {F}Definisi Operasional}{4}%
+\contentsline {section}{\numberline {G}Penelitian Terdahulu}{5}%
+\contentsline {section}{\numberline {H}Kajian Pustaka}{6}%
+\contentsline {section}{\numberline {I}Metode Penelitian}{6}%
+\contentsline {section}{\numberline {J}Sistematika Pembahasan}{7}%
+\contentsline {section}{\numberline {K}Daftar Pustaka}{7}%
